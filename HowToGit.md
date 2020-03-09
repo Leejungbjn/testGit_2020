@@ -22,8 +22,6 @@ $ git add [폴더 및 파일명]    // 파일의 갯수가 100개이상/100mb �
 ```shell
 $ git commit -m "[첨부내용을 작성 자세하게]"
 ```
-1. 내용에서 add와 commit 내용을 취소하기
-
 7. add와  commit을 취소하고 다시 작성 할수 있도록 내용 수정
 
 ```shell
